@@ -46,6 +46,8 @@ There are three states that are set within this component. They consist of the t
 # ImagePlaceholder.js
 The ImagePlaceholder.js component, as the name suggests, is a placeholder for the structure of the images and descriptions that will be returned in the page itself. This component merely holds the structure that the images and album descriptions will be displayed in, and thus leaves all the data manipulation to its parent "APICaller" component through props. 
 
+---
+
 ### Problem-Solving Strategy
 
 Thought of a straight-line method to separate the different components with their different functions to eventually arrive at a complete app. See "Wireframes".
